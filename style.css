@@ -1,6 +1,15 @@
 body {
     margin: 0 auto;
     background-color: rgba(242, 225, 225, 1);
+    background-image: url(assets/bg-image.jpg);
+}
+
+a {
+    color: palevioletred;
+}
+
+h2, label, span, footer, button, a, ::placeholder {
+    font-family: 'Poppins', sans-serif;
 }
 
 .navbar-brand {
@@ -17,21 +26,72 @@ body {
     padding: 0;
 }
 
-// Extra small devices (portrait phones, less than 576px)
-// No media query for `xs` since this is the default in Bootstrap
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
 
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
+label {
+    margin-top: .5rem;
+}
 
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
+.btn-primary {
+    background-color: palevioletred;
+    border: none;
+    margin-bottom: 40px;
+}
 
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
+#style1 {
+    background-color: white;
+    margin: 40px;
+    width: 60%;
+    float: left;
+}
 
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
 
+
+@media screen and (max-width: 640px) {
+.navbar-brand {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 0;
+}
+
+.nav {
+    margin: 0 auto;
+}
+
+
+#style1 {
+    width: 100%;
+    float: none;
+    
+}
+
+form {
+    margin: 20px;
+}
+
+}
+
+@media screen and (max-width: 768px) {
+
+#style1 {
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+}
+
+}
+
+@media screen and (max-width: 980px) {
+
+}
 .card-columns {
     @include media-breakpoint-only(lg) {
       column-count: 4;
