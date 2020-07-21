@@ -4,11 +4,11 @@ body {
     background-image: url(assets/bg-image.jpg);
 }
 
-a {
+a, h2, h5 {
     color: palevioletred;
 }
 
-h2, label, span, footer, button, a, ::placeholder {
+h2, label, footer, button, a, ::placeholder, h5 {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -45,9 +45,13 @@ label {
     margin-bottom: 40px;
 }
 
+.card-title {
+    margin-top: .75rem;
+}
+
 #style1 {
     background-color: white;
-    margin: 40px;
+    margin: 5%;
     width: 60%;
     float: left;
 }
@@ -68,10 +72,9 @@ label {
 
 
 #style1 {
-    width: 100%;
-    float: none;
-    
-}
+    width: 90%;
+    margin: 5%;
+    float: none;}
 
 form {
     margin: 20px;
@@ -82,8 +85,8 @@ form {
 @media screen and (max-width: 768px) {
 
 #style1 {
-    width: 100%;
-    margin: 0 auto;
+    width: 90%;
+    margin: 5%;
     float: none;
 }
 
