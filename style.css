@@ -5,7 +5,7 @@ body {
     background-image: url(assets/bg-image.jpg);
 }
 
-a, h2, h5 {
+a, h2, h5, a:hover {
     color: palevioletred;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 .footer {
-    position: relative;
+    position: static;
     clear: both;
     bottom: 0;
     width: 100%;
@@ -48,8 +48,8 @@ p {
     margin-bottom: 40px;
 }
 
-.card-title {
-    margin-top: .75rem;
+.card-text:last-child {
+    margin-bottom: 20px;
 }
 
 #style1 {
@@ -59,6 +59,7 @@ p {
     float: left;
     padding-top: 10px;
 }
+
 
 @media screen and (max-width: 640px) {
 
@@ -81,13 +82,14 @@ p {
 
 }
 
+
 @media screen and (max-width: 768px) {
 
 #style1 {
     width: 90%;
     margin: 5%;
     float: none;
-}
+} 
 
 }
 
@@ -95,11 +97,4 @@ p {
 
 
 }
-.card-columns {
-    @include media-breakpoint-only(lg) {
-      column-count: 4;
-    }
-    @include media-breakpoint-only(xl) {
-      column-count: 5;
-    }
-  }
+
