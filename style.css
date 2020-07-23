@@ -69,7 +69,7 @@ p {
 
 #style1 {
     background-color: white;
-    margin: 5% 5% 13% 5%;
+    margin: 5% 5% 15% 5%;
     width: 60%;
     float: left;
     padding-top: 10px;
@@ -112,7 +112,6 @@ p {
 
 }
 
-
 @media screen and (max-width: 768px) {
 
 #style1 {
@@ -123,11 +122,3 @@ p {
 } 
 
 }
-
-@media screen and (max-width: 980px) {
-
-
-}
-
-
-
