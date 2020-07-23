@@ -69,16 +69,17 @@ p {
 
 #style1 {
     background-color: white;
-    margin: 5% 5% 30% 5%;
-    width: 80%;
+    margin: 5% 5% 13% 5%;
+    width: 60%;
     float: left;
     padding-top: 10px;
 }
 
 #style2 {
-    width: 40%;
+    width: 30%;
     float: left;
     margin-right: 20px;
+    margin-bottom: 10px;
 }
 
 @media screen and (max-width: 640px) {
@@ -98,7 +99,7 @@ p {
 
 #style1 {
     width: 90%;
-    margin: 5% 5% 30% 5%;
+    margin: 5% 5% 25% 5%;
     float: none;
     padding-bottom: 10px;
 
@@ -116,7 +117,7 @@ p {
 
 #style1 {
     width: 90%;
-    margin: 5% 5% 30% 5%;
+    margin: 5% 5% 25% 5%;
     float: none;
     padding-bottom: 10px;
 } 
