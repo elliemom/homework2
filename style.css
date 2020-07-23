@@ -21,6 +21,7 @@ p {
     background-color: palevioletred;
     width: 200px;
     text-align: center;
+    margin-left: 5%;
 }
 
 .navbar-light .navbar-brand {
@@ -29,6 +30,11 @@ p {
 
 .bg-light {
     padding: 0;
+}
+
+.col-md-6 {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .footer {
@@ -52,14 +58,28 @@ p {
     margin-bottom: 20px;
 }
 
+.card-title {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.card-body {
+    padding: 10px;
+}
+
 #style1 {
     background-color: white;
-    margin: 5%;
-    width: 100%;
+    margin: 5% 5% 30% 5%;
+    width: 80%;
     float: left;
     padding-top: 10px;
 }
 
+#style2 {
+    width: 40%;
+    float: left;
+    margin-right: 20px;
+}
 
 @media screen and (max-width: 640px) {
 
@@ -68,6 +88,7 @@ p {
     padding-top: 10px;
     padding-bottom: 10px;
     margin-right: 0;
+    margin-left: 0;
 }
 
 .nav {
@@ -77,8 +98,16 @@ p {
 
 #style1 {
     width: 90%;
-    margin: 5%;
-    float: none;}
+    margin: 5% 5% 30% 5%;
+    float: none;
+    padding-bottom: 10px;
+
+}
+
+#style2 {
+    width: 100%;
+    margin-bottom: 20px;
+}
 
 }
 
@@ -87,8 +116,9 @@ p {
 
 #style1 {
     width: 90%;
-    margin: 5%;
+    margin: 5% 5% 30% 5%;
     float: none;
+    padding-bottom: 10px;
 } 
 
 }
@@ -97,4 +127,6 @@ p {
 
 
 }
+
+
 
