@@ -1,7 +1,7 @@
-# homework2
+# My Portfolio
 
 **Index/About Me**
-*Introduced myself
+Introduced myself
 *Wanted to make with full-width for desktop display but I thought the layout should be sames as the sample images.
 *So I adjusted the width to 70% for desktop display and the width for tablet and PC is 90%.
 *But when I adjusted the screen size by mouse by using iMac and MacBook, it seems a little different.
