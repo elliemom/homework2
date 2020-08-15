@@ -1,5 +1,5 @@
 # My Portfolio
-I am very organized, responsible, detail oriented and great at communicating with others and working as part of a team. I am proficient in Illustrator, Photoshop and Microsoft office Suite. I enjoy creating an organized environment and creating ways to increase efficiency and productivity in the workplace. I will always go one step further to ensure all necessary steps are followed accurately and tasks are completed on time with as few setbacks as possible.
+I have been working as an associate product manager and web editor. My portfolio site has the sites that I have built with html & css, Wordpress, Wix, Duda and as well as the brochure, flyer, buisess cards that were created by using Adobe Illustrator and Photoshop. I have done more than portfolios and pretty sure that I will make more and better! 
 
 ## Link
 Please visit [My Portfolio](https://juhee-k.github.io/myportfolio/portfolio.html) site!
