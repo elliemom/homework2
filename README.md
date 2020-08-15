@@ -1,16 +1,17 @@
 # My Portfolio
+I am very organized, responsible, detail oriented and great at communicating with others and working as part of a team. I am proficient in Illustrator, Photoshop and Microsoft office Suite. I enjoy creating an organized environment and creating ways to increase efficiency and productivity in the workplace. I will always go one step further to ensure all necessary steps are followed accurately and tasks are completed on time with as few setbacks as possible.
 
-**Index/About Me**
-Introduced myself
-*Wanted to make with full-width for desktop display but I thought the layout should be sames as the sample images.
-*So I adjusted the width to 70% for desktop display and the width for tablet and PC is 90%.
-*But when I adjusted the screen size by mouse by using iMac and MacBook, it seems a little different.
+## Link
+Please visit [My Portfolio](https://juhee-k.github.io/myportfolio/portfolio.html) site!
 
-**Portfolio**
-*My real portfolios that I created by using wordpress, wix and duda. 
-*Since I worked as a graphic designer, I thought it would be easy to create a site by using html and css.
-*But it was a little harder than I thought.
-*Especially the part that I needed to make as same as possible comparing to the sample images.
+## Screenshots
+![Desktop Version](Assets/960pixels.png)
+![Tablet Version](Assets/768pixels.png)
+![Mobile Version](Assets/640pixels.png)
 
-**Contact**
-*General "contact" page and "Submit" button is actually working to send an email to my personal email.
+## Built with
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
+- [Google Fonts](https://fonts.google.com/)
+
