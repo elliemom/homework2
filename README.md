@@ -5,9 +5,9 @@ I am very organized, responsible, detail oriented and great at communicating wit
 Please visit [My Portfolio](https://juhee-k.github.io/myportfolio/portfolio.html) site!
 
 ## Screenshots
-![Desktop Version](Assets/960pixels.png)
-![Tablet Version](Assets/768pixels.png)
-![Mobile Version](Assets/640pixels.png)
+![Desktop Version](assets/960pixels.png)
+![Tablet Version](assets/768pixels.png)
+![Mobile Version](assets/640pixels.png)
 
 ## Built with
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
